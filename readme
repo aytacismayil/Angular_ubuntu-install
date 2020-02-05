@@ -1,0 +1,32 @@
+ sudo apt install nodejs
+ sudo apt install npm
+ node -v
+ nodejs -v
+ sudo npm install -g npm@latest
+ sudo npm install -g @angular/cli
+ sudo npm install n -g
+ sudo n stable
+ ng --version
+ sudo npm cache verify 
+ npm cache clear -- force
+ ng --version  
+ sudo npm cache --force clean
+ sudo npm install @angular/cli -g
+ ng new aytac
+ ng serve --open
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
